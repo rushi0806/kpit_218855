@@ -1,0 +1,2 @@
+Future-promise model:
+two entity/parties can talk with each other
